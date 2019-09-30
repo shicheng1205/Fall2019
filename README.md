@@ -6,6 +6,7 @@
 
 ### September 30, 2019
 
+- Zoom link: https://ucsb.zoom.us/my/sy.oh
 - Github (course material): https://github.com/UCSB-PSTAT-134-234/Fall2019
 - Jupyter notebook server (login with UCSB NetID): https://pstat134.lsit.ucsb.edu  
 - Piazza (questions and discussions): https://piazza.com/ucsb/fall2019/pstat134
