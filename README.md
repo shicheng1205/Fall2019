@@ -1,5 +1,15 @@
 # PSTAT 134: Statistical Data Science
 
+[Load Repository into Jupyter Environment](https://pstat134.lsit.ucsb.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCSB-PSTAT-134-234%2FFall2019&urlpath=tree%2FFall2019%2F)
+
+## Announcements
+
+### September 30, 2019
+
+- Github (course material): https://github.com/UCSB-PSTAT-134-234/Fall2019
+- Piazza (questions and discussions): https://piazza.com/ucsb/fall2019/pstat134
+- Jupyter notebook server: https://pstat134.lsit.ucsb.edu  
+
 ## Table of Contents
 
 - [Teaching Team](#teaching-team)
@@ -25,6 +35,7 @@
 
 - Office hours: Mondays 5:00 - 7:00 pm @ South Hall 5514
 
+
 ### Fanqi (Franky) Meng (TA)
 
 ### Zhipu (Aaron) Zhou (TA)
@@ -43,6 +54,4 @@
 
 - Jupyter notebook server: https://pstat134.lsit.ucsb.edu  
 
-## Announcements
 
-### September 30, 2019
